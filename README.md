@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tolu a Backend Developr
 
 - 🔭 I’m currently working on learning a bit more about frontend design, especially mobile. (not too much though)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Computer Graphics
 - 👯 I’m looking to collaborate on backend projects, maybe an API?
 - 📫 How to reach me: email me favouradetoun@gmail.com
 
