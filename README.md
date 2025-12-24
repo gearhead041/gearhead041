@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tolu a Backend Developr
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on backend projects, maybe an API?
+### Hi there 👋 I'm Tolu a Backend Developer
+- 🌱 I’m currently learning Financial Engineering & DevOps
+- If you have something good let's talk
 - 📫 How to reach me: email me favouradetoun@gmail.com
